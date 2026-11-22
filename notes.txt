@@ -1,0 +1,8 @@
+32-bit 
+i686-w64-mingw32-gcc file.c -o file
+
+64-bit 
+x86_64-w64-mingw32-gcc file.c -o file
+
+an vlepw wWinMain anti gia WinMain
+x86_64-w64-mingw32-gcc hello.cpp -o hello -mwindows -municode
