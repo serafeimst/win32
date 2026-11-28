@@ -1,4 +1,4 @@
-// i686-w64-mingw32-gcc demo.c -o demo
+// i686-w64-mingw32-gcc window.c -o window
 
 #include <windows.h>
 
