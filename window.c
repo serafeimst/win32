@@ -1,4 +1,5 @@
 // i686-w64-mingw32-gcc window.c -o window
+// cl window.c /link User32.lib
 
 #include <windows.h>
 

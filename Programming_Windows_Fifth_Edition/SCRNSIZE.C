@@ -1,3 +1,6 @@
+// i686-w64-mingw32-gcc SCRNSIZE.C -o SCRNSIZE
+// cl SCRNSIZE.C /link User32.lib
+
 #include <windows.h>
 #include <tchar.h>
 #include <stdio.h>

@@ -1,4 +1,5 @@
-//i686-w64-mingw32-gcc HelloWin.c -o HelloWin -lgdi32 -lwinmm
+// i686-w64-mingw32-gcc HelloWin.c -o HelloWin -lgdi32 -lwinmm
+// cl HelloWin.c /link User32.lib Gdi32.lib Winmm.lib
 
 #include <windows.h>
 
